@@ -39,3 +39,13 @@ This system helps improve communication between students and hostel administrati
 
 ## Expected Outcome
 Students can register and track complaints online, while administrators can manage complaints effectively through a centralized system.
+ ## Project Objectives
+
+1. To develop a web-based Hostel Complaint Management System.
+2. To provide an online platform for students to register complaints.
+3. To enable students to track the status of their complaints.
+4. To help hostel administrators manage complaints efficiently.
+5. To reduce manual paperwork and improve transparency.
+6. To maintain a centralized database of complaints and their resolutions.
+7. To improve communication between students and hostel administration.
+8. To ensure timely resolution of hostel-related issues.
